@@ -1,3 +1,3 @@
 # ExercismSolutions
 
-This repository purpose to be a backup of Exercsim exercise solutions.
+This repository purpose is to be a backup of Exercsim exercise solutions.
